@@ -4,19 +4,19 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:21840",
+      "applicationUrl": "http://localhost:50970",
       "sslPort": 0
     }
   },
   "profiles": {
-    "Ordering.API": {
+    "Shopping.Aggregator": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5004",
+      "applicationUrl": "http://localhost:5005",
       "dotnetRunMessages": true
     },
     "IIS Express": {
